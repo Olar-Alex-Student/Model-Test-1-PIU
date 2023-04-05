@@ -1,0 +1,6 @@
+D:\DOWN\Model-Test-1-PIU\FiguraGeometrica\bin\Debug\FiguraGeometrica.dll
+D:\DOWN\Model-Test-1-PIU\FiguraGeometrica\bin\Debug\FiguraGeometrica.pdb
+D:\DOWN\Model-Test-1-PIU\FiguraGeometrica\obj\Debug\FiguraGeometrica.csproj.AssemblyReference.cache
+D:\DOWN\Model-Test-1-PIU\FiguraGeometrica\obj\Debug\FiguraGeometrica.csproj.CoreCompileInputs.cache
+D:\DOWN\Model-Test-1-PIU\FiguraGeometrica\obj\Debug\FiguraGeometrica.dll
+D:\DOWN\Model-Test-1-PIU\FiguraGeometrica\obj\Debug\FiguraGeometrica.pdb

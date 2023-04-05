@@ -1,0 +1,11 @@
+D:\DOWN\Model-Test-1-PIU\Model-Test-1-PIU\bin\Debug\Model_Test_1_PIU.exe.config
+D:\DOWN\Model-Test-1-PIU\Model-Test-1-PIU\bin\Debug\Model_Test_1_PIU.exe
+D:\DOWN\Model-Test-1-PIU\Model-Test-1-PIU\bin\Debug\Model_Test_1_PIU.pdb
+D:\DOWN\Model-Test-1-PIU\Model-Test-1-PIU\bin\Debug\FiguraGeometrica.dll
+D:\DOWN\Model-Test-1-PIU\Model-Test-1-PIU\bin\Debug\FiguraGeometrica.pdb
+D:\DOWN\Model-Test-1-PIU\Model-Test-1-PIU\obj\Debug\Model-Test-1-PIU.csproj.AssemblyReference.cache
+D:\DOWN\Model-Test-1-PIU\Model-Test-1-PIU\obj\Debug\Model-Test-1-PIU.csproj.SuggestedBindingRedirects.cache
+D:\DOWN\Model-Test-1-PIU\Model-Test-1-PIU\obj\Debug\Model-Test-1-PIU.csproj.CoreCompileInputs.cache
+D:\DOWN\Model-Test-1-PIU\Model-Test-1-PIU\obj\Debug\Model-Test-1-PIU.csproj.CopyComplete
+D:\DOWN\Model-Test-1-PIU\Model-Test-1-PIU\obj\Debug\Model_Test_1_PIU.exe
+D:\DOWN\Model-Test-1-PIU\Model-Test-1-PIU\obj\Debug\Model_Test_1_PIU.pdb
